@@ -1,4 +1,4 @@
-package pl.piwowarek.jpszt.jsudoku;
+package pl.piwowarek.jpszt.jpszt;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
